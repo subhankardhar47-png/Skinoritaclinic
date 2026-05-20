@@ -128,7 +128,7 @@
 <body>  <header>
     <h1>Skinorita</h1>
     <p>Advanced Skin, Hair & Cosmetology Clinic in New Barrackpur</p>
-    <a class="btn" href="tel:+918777895530">Call Now</a>
+    <a class="btn" href="tel:+919038834120">Call Now</a>
     <a class="btn" style="margin-left:10px;" href="https://wa.me/918777895530">WhatsApp Booking</a>
   </header>  <section>
     <h2 class="section-title">Our Services</h2>

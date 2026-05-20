@@ -12,10 +12,10 @@
     "@context": "https://schema.org",
     "@type": "MedicalClinic",
     "name": "Skinorita",
-    "telephone": "+91 8777895530",
+    "telephone": "+91 9038834120",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Jogendra Nagar South Kathaltala",
+      "streetAddress": "Nandini Apartment 44 Deshbandhu road new Barrackpur kolkata 700131",
       "addressLocality": "New Barrackpur",
       "addressCountry": "IN"
     },

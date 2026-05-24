@@ -1,3 +1,42 @@
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>SKINORITA - Best Skin Hair Clinic in New Barrackpur</title>
+
+  <meta
+    name="description"
+    content="SKINORITA Skin Hair Cosmetology Clinic in New Barrackpur offering acne treatment, PRP hair therapy, pigmentation treatment, anti-aging solutions, hair fall treatment and advanced cosmetology care."
+  />
+
+  <meta
+    name="keywords"
+    content="skin clinic near me, skin clinic new barrackpur, hair clinic kolkata, prp treatment kolkata, dermatologist near madhyamgram, acne scar treatment, cosmetology clinic"
+  />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Dr. Subhankar Dhar" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="SKINORITA Skin Hair Clinic" />
+  <meta
+    property="og:description"
+    content="Advanced skin and hair treatments in New Barrackpur"
+  />
+  <meta
+    property="og:url"
+    content="https://subhankardhar47-png.github.io/Skinorita/"
+  />
+  <meta property="og:type" content="website" />
+
+  <!-- Canonical -->
+  <link
+    rel="canonical"
+    href="https://subhankardhar47-png.github.io/Skinorita/"
+  />
+</head>
+
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />

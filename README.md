@@ -33,6 +33,22 @@
       background: #f7fbff;
       color: #222;
       line-height: 1.6;
+
+   <script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "MedicalClinic",
+ "name": "SKINORITA",
+ "url": "https://subhankardhar47-png.github.io/Skinorita/",
+ "telephone": "+91XXXXXXXXXX",
+ "address": {
+   "@type": "PostalAddress",
+   "addressLocality": "New Barrackpur",
+   "addressRegion": "West Bengal",
+   "addressCountry": "India"
+ }
+}
+</script>
     }
 
     header {
